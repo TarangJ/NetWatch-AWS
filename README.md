@@ -13,28 +13,37 @@ DNS resolution times
 AWS Integration: Store the collected data in AWS S3 and use AWS Lambda for analysis
 Visualization: Generate simple reports or graphs of the data
 
-AWS Setup Instructions
+# Clone repository
+git clone https://github.com/yourusername/NetWatch-AWS.git
+cd NetWatch-AWS
+
+# Install dependencies
+pip install -r requirements.txt
+
+python main.py
+
+# AWS Setup Instructions
 
 Create an S3 Bucket:
 
-Log in to AWS Console
-Go to S3 service
-Create a new bucket named "your-network-monitor-bucket"
-Set appropriate permissions
+-Log in to AWS Console
+-Go to S3 service
+-Create a new bucket named "your-network-monitor-bucket"
+-Set appropriate permissions
 
 
-Configure AWS Credentials:
+# Configure AWS Credentials:
 
-Create an IAM user with S3 access
-Set up AWS credentials on your machine using:
-command: aws configure
+-Create an IAM user with S3 access
+-Set up AWS credentials on your machine using:
+-command: aws configure
 
-Enter your Access Key ID, Secret Access Key, region, and output format
+-- Enter your Access Key ID, Secret Access Key, region, and output format
 
-Optional: Set Up AWS Lambda:
+-- Optional: Set Up AWS Lambda:
 
-Create a Lambda function to process the uploaded data
-Configure a trigger when new files are uploaded to S3
+-- Create a Lambda function to process the uploaded data
+-- Configure a trigger when new files are uploaded to S3
 
 
 
