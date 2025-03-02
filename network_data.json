@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "2025-02-15T15:38:48.481664",
+    "ping_ms": {
+      "google.com": 0.006343841552734375,
+      "amazon.com": 0.19748210906982422,
+      "github.com": 0.008926153182983398
+    },
+    "dns_resolution_s": {
+      "google.com": 0.00045561790466308594,
+      "amazon.com": 0.0031151771545410156,
+      "github.com": 0.0012483596801757812
+    },
+    "download_speed_mbps": 84.5434278098315,
+    "upload_speed_mbps": 71.22216436724737
+  },
+  {
+    "timestamp": "2025-02-15T15:39:34.517963",
+    "ping_ms": {
+      "google.com": 0.006517648696899414,
+      "amazon.com": 0.29480624198913574,
+      "github.com": 0.009283304214477539
+    },
+    "dns_resolution_s": {
+      "google.com": 0.0006439685821533203,
+      "amazon.com": 0.0007917881011962891,
+      "github.com": 0.0005466938018798828
+    },
+    "download_speed_mbps": 35.16684630147327,
+    "upload_speed_mbps": 76.1028215095666
+  },
+  {
+    "timestamp": "2025-02-15T15:44:43.140371",
+    "ping_ms": {
+      "google.com": 0.006534576416015625,
+      "amazon.com": 0.1972675323486328,
+      "github.com": 0.0092620849609375
+    },
+    "dns_resolution_s": {
+      "google.com": 0.0008406639099121094,
+      "amazon.com": 0.0009868144989013672,
+      "github.com": 0.0006864070892333984
+    },
+    "download_speed_mbps": -1,
+    "upload_speed_mbps": -1
+  },
+  {
+    "timestamp": "2025-02-15T15:45:05.172822",
+    "ping_ms": {
+      "google.com": 0.006592512130737305,
+      "amazon.com": 0.19697856903076172,
+      "github.com": 0.00907278060913086
+    },
+    "dns_resolution_s": {
+      "google.com": 0.0008828639984130859,
+      "amazon.com": 0.0009639263153076172,
+      "github.com": 0.0008025169372558594
+    },
+    "download_speed_mbps": -1,
+    "upload_speed_mbps": -1
+  },
+  {
+    "timestamp": "2025-02-15T16:36:00.391315",
+    "ping_ms": {
+      "google.com": 0.006844758987426758,
+      "amazon.com": 0.21602153778076172,
+      "github.com": 0.009773969650268555
+    },
+    "dns_resolution_s": {
+      "google.com": 0.0008306503295898438,
+      "amazon.com": 0.0010755062103271484,
+      "github.com": 0.0006954669952392578
+    },
+    "download_speed_mbps": 51.69379673690104,
+    "upload_speed_mbps": 58.18613734924224
+  },
+  {
+    "timestamp": "2025-02-15T16:40:43.064301",
+    "ping_ms": {
+      "google.com": 0.01935577392578125,
+      "amazon.com": 0.20556378364562988,
+      "github.com": 0.014431953430175781
+    },
+    "dns_resolution_s": {
+      "google.com": 0.0008270740509033203,
+      "amazon.com": 0.0010535717010498047,
+      "github.com": 0.0007388591766357422
+    },
+    "download_speed_mbps": 32.29759456179827,
+    "upload_speed_mbps": 43.33252899632241
+  },
+  {
+    "timestamp": "2025-02-15T17:41:15.900485",
+    "ping_ms": {
+      "google.com": 0.006175994873046875,
+      "amazon.com": 0.2604687213897705,
+      "github.com": 0.008539199829101562
+    },
+    "dns_resolution_s": {
+      "google.com": 0.0002548694610595703,
+      "amazon.com": 0.00029659271240234375,
+      "github.com": 0.00019741058349609375
+    },
+    "download_speed_mbps": 47.80624571202675,
+    "upload_speed_mbps": 73.954430864994
+  }
+]
