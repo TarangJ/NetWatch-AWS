@@ -17,12 +17,12 @@ def upload_to_s3(local_file, bucket_name, s3_file_name):
 def update_network_monitor():
     network_data = collect_network_data()
 
-    save_local_json(network_data)
+    save_local_json(network_data)Installation
 
     timestamp = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
     s3_filename = f"network_data_{timestamp}.json"
 
-    bucket_name = "mynetbucketproj"
+    bucket_name = "yourBucketName" #replace
     if upload_to_s3("network_data.json", bucket_name, s3_filename):
         print(f"Successfully uploaded to S3: {s3_filename}")
     else:
