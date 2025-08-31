@@ -14,6 +14,8 @@ AWS Integration: Store the collected data in AWS S3 and use AWS Lambda for analy
 Visualization: Generate simple reports or graphs of the data
 
 # Clone repository
+
+
 git clone https://github.com/yourusername/NetWatch-AWS.git
 cd NetWatch-AWS
 
